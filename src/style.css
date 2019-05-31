@@ -1,8 +1,11 @@
 body, html {
   height: 100%;
-  background: blue;
+  /* background: blue; */
 }
-
+* {
+  margin: 0;
+  padding: 0;
+}
 @font-face {
   font-family: 'anticon_user';  /* project id 1034459 */
   src: url('//at.alicdn.com/t/font_1034459_3eajnohp1z1.eot');
